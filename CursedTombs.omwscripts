@@ -1,0 +1,4 @@
+GLOBAL: scripts/CursedTombs/global.lua
+
+MENU: scripts/CursedTombs/settingsMenu.lua
+GLOBAL: scripts/CursedTombs/settingsGlobal.lua

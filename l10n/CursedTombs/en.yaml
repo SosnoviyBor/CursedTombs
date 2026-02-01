@@ -1,0 +1,5 @@
+page_name: Cursed Tombs
+page_description: Enemies will target the player instead of their followers.
+
+settings_groupName: Settings
+ignoreSummons_name: Enemies Ignore Summons
