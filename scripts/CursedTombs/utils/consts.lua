@@ -27,6 +27,8 @@ CursedContainers = {
 local expansions = {
     ["OAAB_Data.esm"] = function ()
         CursedContainers[#CursedContainers+1] = "ab_o_urnash"
+        CursedContainers[#CursedContainers+1] = "ab_o_velothicoffer_01"
+        CursedContainers[#CursedContainers+1] = "ab_o_velothicoffer_02"
     end,
     ["Tamrield_Data.esm"] = function ()
         
